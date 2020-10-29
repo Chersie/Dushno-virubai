@@ -1,6 +1,4 @@
-Project idea is to check levels of CO2 and temperature in room.
-If CO2 level and temperature are to high, a window in room will be opened.
-
+Идея проекта состоит в том, чтобы находить уровни температуры и углекислого газа в комнате и поддерживать их в нормальном состоянии.
 
 Authors:
 Chersie
